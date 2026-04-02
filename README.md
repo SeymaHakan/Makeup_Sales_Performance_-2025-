@@ -34,6 +34,6 @@ Revenue varies between countries.
 Sales channels show different performance levels.
 Monthly trends helped me identify seasonal patterns.
 
-The PowerB image is attached.
+The Power BI image is attached.
 
 <img width="1433" height="861" alt="Ekran Görüntüsü (245)" src="https://github.com/user-attachments/assets/54069d0b-3d1a-4bbe-a8b8-0c58c6777288" />
